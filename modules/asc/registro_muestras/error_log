@@ -1,0 +1,74 @@
+[08-Aug-2024 11:38:58 America/Bogota] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home3/concr/portal.concretol.co/modelos/cls_laboratorio.php on line 141
+[08-Jan-2025 08:28:40 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function cls_laboratorio::datatable_reg_muestras(), 0 passed in /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php on line 27 and exactly 1 expected in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php:1454
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php(27): cls_laboratorio->datatable_reg_muestras()
+#1 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1454
+[08-Jan-2025 08:28:40 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function cls_laboratorio::datatable_reg_muestras(), 0 passed in /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php on line 27 and exactly 1 expected in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php:1454
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php(27): cls_laboratorio->datatable_reg_muestras()
+#1 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1454
+[26-Mar-2025 09:57:52 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function cls_laboratorio::datatable_reg_muestras(), 0 passed in /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php on line 27 and exactly 1 expected in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php:1495
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php(27): cls_laboratorio->datatable_reg_muestras()
+#1 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1495
+[26-Mar-2025 09:57:52 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function cls_laboratorio::datatable_reg_muestras(), 0 passed in /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php on line 27 and exactly 1 expected in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php:1495
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php(27): cls_laboratorio->datatable_reg_muestras()
+#1 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1495
+[26-Mar-2025 10:13:50 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function cls_laboratorio::datatable_reg_muestras(), 0 passed in /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php on line 27 and exactly 1 expected in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php:1495
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php(27): cls_laboratorio->datatable_reg_muestras()
+#1 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1495
+[26-Mar-2025 10:13:50 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function cls_laboratorio::datatable_reg_muestras(), 0 passed in /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php on line 27 and exactly 1 expected in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php:1495
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php(27): cls_laboratorio->datatable_reg_muestras()
+#1 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1495
+[26-Mar-2025 10:14:07 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function cls_laboratorio::datatable_reg_muestras(), 0 passed in /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php on line 27 and exactly 1 expected in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php:1495
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php(27): cls_laboratorio->datatable_reg_muestras()
+#1 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1495
+[26-Mar-2025 10:15:16 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function cls_laboratorio::datatable_reg_muestras(), 0 passed in /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php on line 27 and exactly 1 expected in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php:1495
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php(27): cls_laboratorio->datatable_reg_muestras()
+#1 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1495
+[26-Mar-2025 10:18:10 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function cls_laboratorio::datatable_reg_muestras(), 0 passed in /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php on line 27 and exactly 1 expected in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php:1495
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php(27): cls_laboratorio->datatable_reg_muestras()
+#1 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1495
+[26-Mar-2025 10:18:10 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function cls_laboratorio::datatable_reg_muestras(), 0 passed in /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php on line 27 and exactly 1 expected in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php:1495
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php(27): cls_laboratorio->datatable_reg_muestras()
+#1 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1495
+[26-Mar-2025 15:30:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1498
+[26-Mar-2025 15:30:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1498
+[26-Mar-2025 15:30:47 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1498
+[26-Mar-2025 10:46:02 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function cls_laboratorio::datatable_reg_muestras(), 0 passed in /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php on line 27 and exactly 1 expected in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php:1495
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php(27): cls_laboratorio->datatable_reg_muestras()
+#1 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1495
+[26-Mar-2025 10:46:02 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function cls_laboratorio::datatable_reg_muestras(), 0 passed in /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php on line 27 and exactly 1 expected in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php:1495
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php(27): cls_laboratorio->datatable_reg_muestras()
+#1 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1495
+[26-Mar-2025 10:56:17 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php:1529
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php(27): cls_laboratorio->datatable_reg_muestras('')
+#1 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1529
+[26-Mar-2025 10:56:17 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php:1529
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modules/asc/registro_muestras/data_table_reg_muestras.php(27): cls_laboratorio->datatable_reg_muestras('')
+#1 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_laboratorio.php on line 1529

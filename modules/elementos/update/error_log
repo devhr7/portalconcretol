@@ -1,0 +1,20 @@
+[28-Oct-2022 08:43:13 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'elementos' not found in /home3/concr/portal.concretol.co/modules/elementos/update/editar.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/update/editar.php on line 25
+[11-Nov-2022 20:04:33 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'elementos' not found in /home3/concr/portal.concretol.co/modules/elementos/update/editar.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/update/editar.php on line 25
+[12-Nov-2022 18:05:35 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'elementos' not found in /home3/concr/portal.concretol.co/modules/elementos/update/editar.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/update/editar.php on line 25
+[12-Nov-2022 20:51:25 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'elementos' not found in /home3/concr/portal.concretol.co/modules/elementos/update/editar.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/update/editar.php on line 25
+[13-Nov-2022 19:29:23 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'elementos' not found in /home3/concr/portal.concretol.co/modules/elementos/update/editar.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/update/editar.php on line 25

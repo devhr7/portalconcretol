@@ -1,0 +1,4 @@
+[11-Jun-2024 19:47:43 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'php_clases' not found in /home3/concr/portal.concretol.co/modules/crm/oportunidad_negocio/create/crear.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/crm/oportunidad_negocio/create/crear.php on line 4

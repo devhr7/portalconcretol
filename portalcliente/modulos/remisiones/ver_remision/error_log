@@ -1,0 +1,7 @@
+[02-Apr-2024 07:34:34 America/Bogota] PHP Deprecated:  Function strftime() is deprecated in /home/concr/portal.concretol.co/portalcliente/modulos/remisiones/ver_remision/datos_remi.php on line 36
+[02-Apr-2024 07:34:46 America/Bogota] PHP Deprecated:  Function strftime() is deprecated in /home/concr/portal.concretol.co/portalcliente/modulos/remisiones/ver_remision/datos_remi.php on line 36
+[02-Apr-2024 07:34:46 America/Bogota] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/concr/portal.concretol.co/vendor/fpdf182/fpdf.php on line 1211
+[02-Apr-2024 07:34:46 America/Bogota] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/concr/portal.concretol.co/vendor/fpdf182/fpdf.php on line 1211
+[02-Apr-2024 07:34:46 America/Bogota] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/concr/portal.concretol.co/vendor/fpdf182/fpdf.php on line 1211
+[02-Apr-2024 07:34:46 America/Bogota] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/concr/portal.concretol.co/vendor/fpdf182/fpdf.php on line 1211
+[02-Apr-2024 14:31:12 America/Bogota] PHP Deprecated:  Function strftime() is deprecated in /home/concr/portal.concretol.co/portalcliente/modulos/remisiones/ver_remision/datos_remi.php on line 36

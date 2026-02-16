@@ -1,0 +1,5 @@
+// ct26_remisiones 29/03/2021
+ALTER TABLE `ct26_remisiones` ADD `ct26_date_create` DATETIME NULL DEFAULT NULL AFTER `ct26_id_remision`; 
+
+ALTER TABLE `ct1_terceros` ADD `ct1_estado2` INT(10) NULL DEFAULT '1' AFTER `ct1_Estado`; 
+ALTER TABLE `ct5_obras` ADD `ct5_estado2` INT(10)  NULL DEFAULT '1' AFTER `ct5_EstadoObra`; 

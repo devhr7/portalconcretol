@@ -1,0 +1,12 @@
+[22-Dec-2022 15:20:48 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tipo_visita' in 'field list' in /home3/concr/portal.concretol.co/modelos/oportunidad_negocio.php:465
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/oportunidad_negocio.php(465): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/crm/clientes/informe_visitas/excel.php(34): oportunidad_negocio->informe_excel_visitas_clientes('2022-11-01', '2022-11-30')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/oportunidad_negocio.php on line 465
+[22-Dec-2022 15:26:15 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tipo_visita' in 'field list' in /home3/concr/portal.concretol.co/modelos/oportunidad_negocio.php:465
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/oportunidad_negocio.php(465): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/crm/clientes/informe_visitas/excel.php(34): oportunidad_negocio->informe_excel_visitas_clientes('2022-11-01', '2022-11-30')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/oportunidad_negocio.php on line 465

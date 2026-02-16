@@ -1,0 +1,6 @@
+[20-May-2024 15:54:04 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /home3/concr/portal.concretol.co/modelos/informes.php:207
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/informes.php(207): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/facturae/informe/excel.php(31): informes->informe_fact('2024-03-01', '2024-05-19')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/informes.php on line 207

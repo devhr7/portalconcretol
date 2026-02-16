@@ -1,0 +1,20 @@
+[15-Dec-2023 19:52:45 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head4.php on line 126
+[15-Dec-2023 19:52:45 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head4.php on line 135
+[21-Dec-2023 07:07:16 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head4.php on line 126
+[21-Dec-2023 07:07:16 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head4.php on line 135
+[21-Dec-2023 07:15:06 America/Bogota] PHP Warning:  Undefined array key "asesora_comercial" in /home3/concr/portal.concretol.co/modules/crm/clientes/create/php_crear2.php on line 23
+[21-Dec-2023 22:07:44 America/Bogota] PHP Warning:  Undefined array key "naturaleza" in /home3/concr/portal.concretol.co/modules/crm/clientes/create/php_crear2.php on line 36
+[21-Dec-2023 22:07:44 America/Bogota] PHP Warning:  Undefined variable $razon_social in /home3/concr/portal.concretol.co/modules/crm/clientes/create/php_crear2.php on line 86
+[25-Dec-2023 21:19:56 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head4.php on line 126
+[25-Dec-2023 21:19:56 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head4.php on line 135
+[25-Dec-2023 21:21:32 America/Bogota] PHP Warning:  Undefined array key "asesora_comercial" in /home3/concr/portal.concretol.co/modules/crm/clientes/create/php_crear2.php on line 23
+[25-Jan-2024 10:40:04 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head4.php on line 126
+[25-Jan-2024 10:40:04 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head4.php on line 135
+[29-Jan-2024 10:46:32 America/Bogota] PHP Warning:  Undefined array key "tipo_cliente" in /home3/concr/portal.concretol.co/modules/crm/clientes/create/php_crear2.php on line 27
+[05-Feb-2024 04:08:16 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head4.php on line 126
+[05-Feb-2024 04:08:16 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head4.php on line 135
+[17-Feb-2024 13:37:17 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head4.php on line 126
+[17-Feb-2024 13:37:17 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head4.php on line 135
+[27-Mar-2024 17:13:29 America/Bogota] PHP Warning:  Undefined array key "sede" in /home3/concr/portal.concretol.co/modules/crm/clientes/create/php_crear2.php on line 25
+[27-Mar-2024 17:18:26 America/Bogota] PHP Warning:  Undefined array key "sede" in /home3/concr/portal.concretol.co/modules/crm/clientes/create/php_crear2.php on line 25
+[27-Mar-2024 17:18:26 America/Bogota] PHP Warning:  Undefined array key "tipo_cliente" in /home3/concr/portal.concretol.co/modules/crm/clientes/create/php_crear2.php on line 27

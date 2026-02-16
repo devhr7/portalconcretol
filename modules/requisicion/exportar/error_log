@@ -1,0 +1,56 @@
+[06-Dec-2023 13:07:27 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head3.php on line 82
+[06-Dec-2023 13:07:27 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head3.php on line 89
+[13-Dec-2023 14:39:50 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head3.php on line 82
+[13-Dec-2023 14:39:50 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head3.php on line 89
+[27-Aug-2024 11:09:13 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ct67_precios_item.observaciones' in 'field list' in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php:141
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php(141): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/requisicion/exportar/excel.php(46): cls_requisiciones->get_data_infor_requisicion('2024-05-03', '2024-05-03')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php on line 141
+[27-Aug-2024 11:09:19 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ct67_precios_item.observaciones' in 'field list' in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php:141
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php(141): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/requisicion/exportar/excel.php(46): cls_requisiciones->get_data_infor_requisicion('2024-05-03', '2024-05-03')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php on line 141
+[27-Aug-2024 11:10:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ct67_detalle_item.id_requisicion' in 'on clause' in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php:141
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php(141): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/requisicion/exportar/excel.php(46): cls_requisiciones->get_data_infor_requisicion('2024-05-03', '2024-05-03')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php on line 141
+[27-Aug-2024 11:11:04 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ct67_detalle_item.id_requisicion' in 'on clause' in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php:141
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php(141): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/requisicion/exportar/excel.php(46): cls_requisiciones->get_data_infor_requisicion('2024-05-03', '2024-05-03')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php on line 141
+[27-Aug-2024 11:11:22 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `ct67_precios_item` INNER JOIN ct67_requsicion ON ct67_detalle_item.id_requi' at line 1 in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php:141
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php(141): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/requisicion/exportar/excel.php(46): cls_requisiciones->get_data_infor_requisicion('2024-05-03', '2024-05-03')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php on line 141
+[27-Aug-2024 15:28:04 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'observaciones' in field list is ambiguous in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php:141
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php(141): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/requisicion/exportar/excel.php(46): cls_requisiciones->get_data_infor_requisicion('2024-05-01', '2024-08-27')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php on line 141
+[27-Aug-2024 15:34:04 America/Bogota] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php on line 144
+[27-Aug-2024 15:34:10 America/Bogota] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php on line 144
+[27-Aug-2024 15:34:47 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ct67_precios_item.id_item' in 'on clause' in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php:141
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php(141): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/requisicion/exportar/excel.php(46): cls_requisiciones->get_data_infor_requisicion('2024-08-01', '2024-08-27')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php on line 141
+[27-Aug-2024 15:35:01 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ct67_precios_item.id_item' in 'on clause' in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php:141
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php(141): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/requisicion/exportar/excel.php(46): cls_requisiciones->get_data_infor_requisicion('2024-08-01', '2024-08-27')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php on line 141
+[27-Aug-2024 15:36:51 America/Bogota] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php on line 144
+[27-Aug-2024 15:37:53 America/Bogota] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home3/concr/portal.concretol.co/modelos/cls_requisiciones.php on line 144

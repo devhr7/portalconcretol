@@ -1,0 +1,190 @@
+[21-Jul-2023 17:01:11 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[29-Jul-2023 09:03:48 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[31-Jul-2023 11:29:43 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[02-Aug-2023 03:49:10 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[28-Aug-2023 08:11:25 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[28-Aug-2023 09:46:11 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[30-Aug-2023 13:55:56 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[05-Sep-2023 14:58:44 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[03-Oct-2023 14:47:26 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/concr/portal.concretol.co/modules/elementos/movimientos/get_data_edit.php on line 20
+[11-Nov-2023 11:21:27 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`concr_bdportalconcretol`.`ct64_salida_epp`, CONSTRAINT `ct64_salida_epp_ibfk_1` FOREIGN KEY (`id_elemento_epp`) REFERENCES `ct64_elementos_epp` (`id`)) in /home3/concr/portal.concretol.co/modelos/elementos.php:227
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/elementos.php(227): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/elementos/movimientos/php_crear.php(39): elementos->crear_salida_epp('0202-10-30', '1', 'Salida', '133', 'PERSONAL EXTERN...', '46', 'EXTERNO', '9', 'EXTERNO', '0', 'No aplica', '1', '')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/elementos.php on line 227
+[11-Nov-2023 11:21:45 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`concr_bdportalconcretol`.`ct64_salida_epp`, CONSTRAINT `ct64_salida_epp_ibfk_1` FOREIGN KEY (`id_elemento_epp`) REFERENCES `ct64_elementos_epp` (`id`)) in /home3/concr/portal.concretol.co/modelos/elementos.php:227
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/elementos.php(227): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/elementos/movimientos/php_crear.php(39): elementos->crear_salida_epp('0202-10-30', '1', 'Salida', '133', 'PERSONAL EXTERN...', '46', 'EXTERNO', '9', 'EXTERNO', '0', 'No aplica', '1', '')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/elementos.php on line 227
+[29-Jun-2024 07:54:39 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[08-Jul-2024 07:03:56 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[22-Jul-2024 07:06:11 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[02-Aug-2024 08:08:24 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[16-Aug-2024 16:14:32 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[16-Aug-2024 16:26:51 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[24-Aug-2024 07:52:37 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[26-Aug-2024 07:12:57 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[27-Aug-2024 10:58:41 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[07-Sep-2024 07:54:55 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[16-Sep-2024 09:57:40 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[17-Sep-2024 07:31:01 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`concr_bdportalconcretol`.`ct64_salida_epp`, CONSTRAINT `ct64_salida_epp_ibfk_1` FOREIGN KEY (`id_elemento_epp`) REFERENCES `ct64_elementos_epp` (`id`)) in /home3/concr/portal.concretol.co/modelos/elementos.php:228
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/elementos.php(228): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/elementos/movimientos/php_crear.php(39): elementos->crear_salida_epp('2024-09-16', '1', 'Salida', '91', 'BOTON SALAZAR D...', '3', 'AGENTE DE SERVI...', '1', 'PRODUCCI\xC3\x93N ', '0', 'No aplica', '1', '')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/elementos.php on line 228
+[17-Sep-2024 07:31:01 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`concr_bdportalconcretol`.`ct64_salida_epp`, CONSTRAINT `ct64_salida_epp_ibfk_1` FOREIGN KEY (`id_elemento_epp`) REFERENCES `ct64_elementos_epp` (`id`)) in /home3/concr/portal.concretol.co/modelos/elementos.php:228
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/elementos.php(228): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/elementos/movimientos/php_crear.php(39): elementos->crear_salida_epp('2024-09-16', '1', 'Salida', '91', 'BOTON SALAZAR D...', '3', 'AGENTE DE SERVI...', '1', 'PRODUCCI\xC3\x93N ', '0', 'No aplica', '1', '')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/elementos.php on line 228
+[19-Sep-2024 07:35:12 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[19-Sep-2024 10:16:30 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[23-Sep-2024 15:28:33 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[23-Sep-2024 15:41:02 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[02-Oct-2024 11:15:37 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[27-Jan-2025 16:53:19 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/get_data_edit.php on line 20
+[11-Apr-2025 10:53:14 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`concr_bdportalconcretol`.`ct64_salida_epp`, CONSTRAINT `ct64_salida_epp_ibfk_1` FOREIGN KEY (`id_elemento_epp`) REFERENCES `ct64_elementos_epp` (`id`)) in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php:228
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php(228): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/php_crear.php(39): elementos->crear_salida_epp('2025-02-11', '1', 'Salida', '45', 'MIRANDA BUENAVE...', '3', 'AGENTE DE SERVI...', '1', 'PRODUCCI\xC3\x93N ', '0', 'No aplica', '1', 'CABEZAL O ARA\xC3\x91...')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php on line 228
+[11-Apr-2025 11:20:13 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`concr_bdportalconcretol`.`ct64_salida_epp`, CONSTRAINT `ct64_salida_epp_ibfk_1` FOREIGN KEY (`id_elemento_epp`) REFERENCES `ct64_elementos_epp` (`id`)) in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php:228
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php(228): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/php_crear.php(39): elementos->crear_salida_epp('2025-02-11', '1', 'Salida', '45', 'MIRANDA BUENAVE...', '3', 'AGENTE DE SERVI...', '1', 'PRODUCCI\xC3\x93N ', '0', 'No aplica', '1', 'CABEZAL O ARA\xC3\x91...')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php on line 228
+[14-Apr-2025 16:11:12 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`concr_bdportalconcretol`.`ct64_salida_epp`, CONSTRAINT `ct64_salida_epp_ibfk_1` FOREIGN KEY (`id_elemento_epp`) REFERENCES `ct64_elementos_epp` (`id`)) in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php:228
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php(228): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/php_crear.php(39): elementos->crear_salida_epp('2025-02-11', '1', 'Salida', '45', 'MIRANDA BUENAVE...', '3', 'AGENTE DE SERVI...', '1', 'PRODUCCI\xC3\x93N ', '0', 'No aplica', '1', 'CABEZAL O ARA\xC3\x91...')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php on line 228
+[14-Apr-2025 16:11:49 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`concr_bdportalconcretol`.`ct64_salida_epp`, CONSTRAINT `ct64_salida_epp_ibfk_1` FOREIGN KEY (`id_elemento_epp`) REFERENCES `ct64_elementos_epp` (`id`)) in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php:228
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php(228): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/php_crear.php(39): elementos->crear_salida_epp('2025-02-11', '1', 'Salida', '45', 'MIRANDA BUENAVE...', '3', 'AGENTE DE SERVI...', '1', 'PRODUCCI\xC3\x93N ', '0', 'No aplica', '1', 'CABEZAL O ARA\xC3\x91...')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php on line 228
+[14-Apr-2025 16:13:41 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`concr_bdportalconcretol`.`ct64_salida_epp`, CONSTRAINT `ct64_salida_epp_ibfk_1` FOREIGN KEY (`id_elemento_epp`) REFERENCES `ct64_elementos_epp` (`id`)) in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php:228
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php(228): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/php_crear.php(39): elementos->crear_salida_epp('2025-02-11', '1', 'Salida', '45', 'MIRANDA BUENAVE...', '3', 'AGENTE DE SERVI...', '1', 'PRODUCCI\xC3\x93N ', '0', 'No aplica', '1', 'CABEZAL O ARA\xC3\x91...')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php on line 228
+[15-Apr-2025 17:17:27 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/get_data_edit.php on line 20
+[15-Apr-2025 17:17:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/get_data_edit.php on line 20
+[15-Apr-2025 17:17:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/get_data_edit.php on line 20
+[15-Apr-2025 17:18:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/get_data_edit.php on line 20
+[15-Apr-2025 17:18:28 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/get_data_edit.php on line 20
+[15-Apr-2025 17:31:07 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`concr_bdportalconcretol`.`ct64_salida_epp`, CONSTRAINT `ct64_salida_epp_ibfk_1` FOREIGN KEY (`id_elemento_epp`) REFERENCES `ct64_elementos_epp` (`id`)) in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php:228
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php(228): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/php_crear.php(39): elementos->crear_salida_epp('2025-04-10', '1', 'Salida', '235', 'PAULA ANDREA PO...', '41', 'APRENDIZ SENA', '4', 'TALENTO HUMANO ', '0', 'No aplica', '1', 'GUANTES DE L\xC3\x81T...')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php on line 228
+[15-Apr-2025 17:38:39 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`concr_bdportalconcretol`.`ct64_salida_epp`, CONSTRAINT `ct64_salida_epp_ibfk_1` FOREIGN KEY (`id_elemento_epp`) REFERENCES `ct64_elementos_epp` (`id`)) in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php:228
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php(228): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/php_crear.php(39): elementos->crear_salida_epp('2025-04-03', '1', 'Salida', '199', 'WILLIAN ESNEIDE...', '21', 'SUPERNUMERARIO ', '1', 'PRODUCCI\xC3\x93N ', '0', 'No aplica', '1', 'GUANTE DE CARNA...')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/elementos.php on line 228
+[03-Jun-2025 11:06:23 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/get_data_edit.php on line 20
+[03-Jun-2025 11:06:23 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/get_data_edit.php on line 20
+[03-Jun-2025 19:17:46 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[04-Jun-2025 20:28:26 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[12-Jul-2025 12:42:36 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/index.php on line 5
+[22-Sep-2025 08:42:55 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/get_data_edit.php on line 20
+[22-Sep-2025 08:43:03 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/get_data_edit.php on line 20
+[22-Sep-2025 08:43:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/get_data_edit.php on line 20
+[04-Nov-2025 16:30:02 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/movimientos/index.php on line 5

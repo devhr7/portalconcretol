@@ -1,0 +1,9 @@
+[18-May-2023 10:48:49 America/Bogota] PHP Parse error:  syntax error, unexpected ')' in /home3/concr/portal.concretol.co/modules/Modulo_Requisiciones/controlador/ControladorRequisiciones1.php on line 45
+[18-May-2023 10:48:53 America/Bogota] PHP Parse error:  syntax error, unexpected ')' in /home3/concr/portal.concretol.co/modules/Modulo_Requisiciones/controlador/ControladorRequisiciones1.php on line 45
+[18-May-2023 10:49:29 America/Bogota] PHP Parse error:  syntax error, unexpected ')' in /home3/concr/portal.concretol.co/modules/Modulo_Requisiciones/controlador/ControladorRequisiciones1.php on line 45
+[18-May-2023 10:49:49 America/Bogota] PHP Parse error:  syntax error, unexpected ')' in /home3/concr/portal.concretol.co/modules/Modulo_Requisiciones/controlador/ControladorRequisiciones1.php on line 45
+[18-May-2023 14:33:13 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/concr/portal.concretol.co/modules/Modulo_Requisiciones/vista/SeleccionarCoti.php on line 8
+[24-Jun-2023 08:36:49 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/concr/portal.concretol.co/modules/Modulo_Requisiciones/vista/SeleccionarCoti.php on line 8
+[24-Jun-2023 11:55:26 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/concr/portal.concretol.co/modules/Modulo_Requisiciones/vista/SeleccionarCoti.php on line 8
+[28-Jun-2023 15:35:10 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/concr/portal.concretol.co/modules/Modulo_Requisiciones/vista/SeleccionarCoti.php on line 8
+[28-Jun-2023 15:35:15 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/concr/portal.concretol.co/modules/Modulo_Requisiciones/vista/SeleccionarCoti.php on line 8

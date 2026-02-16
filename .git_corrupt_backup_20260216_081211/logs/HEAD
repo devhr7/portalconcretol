@@ -1,0 +1,29 @@
+0000000000000000000000000000000000000000 bdaf8a3ec7eb75e77412cb0cef35bf47493e71a3 HR-Developers <hr.ramirezoli@gmail.com> 1610659735 -0500	clone: from https://github.com/hrcorporation/gestion.git
+bdaf8a3ec7eb75e77412cb0cef35bf47493e71a3 aeeb29d21f340f9df60fefbf010799a289a5eee4 HR-Developers <hr.ramirezoli@gmail.com> 1610659825 -0500	commit: ok
+aeeb29d21f340f9df60fefbf010799a289a5eee4 49d3ef3c509269efae0ab9cd2c7a4ee29b8a52eb HR-Developers <hr.ramirezoli@gmail.com> 1610662683 -0500	commit: ok
+49d3ef3c509269efae0ab9cd2c7a4ee29b8a52eb e68e9a7a838dfb2c102fa1889a76b1a8db327eff HR-Developers <hr.ramirezoli@gmail.com> 1610713448 -0500	commit: ok
+e68e9a7a838dfb2c102fa1889a76b1a8db327eff 408bb02fec39944f929aa2aea5ed2c9aa2170ddd HR-Developers <hr.ramirezoli@gmail.com> 1610714049 -0500	commit: ok
+408bb02fec39944f929aa2aea5ed2c9aa2170ddd ccebf6273a726c6832d89cc7fcbc404d1793637f HR-Developers <hr.ramirezoli@gmail.com> 1610714085 -0500	commit: ok
+ccebf6273a726c6832d89cc7fcbc404d1793637f 9644514a63c61c563c8cf77848b8b08a0f4d2d2b HR-Developers <hr.ramirezoli@gmail.com> 1610714191 -0500	commit: ok
+9644514a63c61c563c8cf77848b8b08a0f4d2d2b 8ef9e4082dd98a563c129df870b51812c891105e HR-Developers <hr.ramirezoli@gmail.com> 1610714555 -0500	commit: ok
+8ef9e4082dd98a563c129df870b51812c891105e 89145a49ac777dc1abe7c241e13739d31db87125 HR-Developers <hr.ramirezoli@gmail.com> 1610714637 -0500	commit: ok
+89145a49ac777dc1abe7c241e13739d31db87125 ed6bef001bd485d4cc89a007805bdc076c6a226a HR-Developers <hr.ramirezoli@gmail.com> 1610725061 -0500	commit: ok
+ed6bef001bd485d4cc89a007805bdc076c6a226a 441d6e557946f7674b10d0842726eb14152c08f3 HR-Developers <hr.ramirezoli@gmail.com> 1610977183 -0500	commit: ok
+441d6e557946f7674b10d0842726eb14152c08f3 e8802b3e1818e66bbb1c1db5d5211e84c6347292 HR-Developers <hr.ramirezoli@gmail.com> 1611145230 -0500	commit: change Precio Producto
+e8802b3e1818e66bbb1c1db5d5211e84c6347292 6b6711edde971245d563ebe4c97120d55e6038b1 HR-Developers <hr.ramirezoli@gmail.com> 1611863766 -0500	commit: ok
+6b6711edde971245d563ebe4c97120d55e6038b1 86a44b3877f5da6d124b6d8e571e19969921c0b3 HR-Developers <hr.ramirezoli@gmail.com> 1612355012 -0500	commit: modulo cliente
+86a44b3877f5da6d124b6d8e571e19969921c0b3 141bc20df82d8d326df625fed5f3ba5d1fcc77cc HR-Developers <hr.ramirezoli@gmail.com> 1612446083 -0500	commit: ok
+141bc20df82d8d326df625fed5f3ba5d1fcc77cc b6d391178bd9f958a1ffdbe4a115ea9bcf8bfa14 HR-Developers <hr.ramirezoli@gmail.com> 1612561213 -0500	commit: ok
+b6d391178bd9f958a1ffdbe4a115ea9bcf8bfa14 6a63cc5096f4cbb741405db9ace0ae8decdc9019 HR-Developers <hr.ramirezoli@gmail.com> 1613396051 -0500	commit: nuevo modulo para almacenista
+6a63cc5096f4cbb741405db9ace0ae8decdc9019 717eae161aa90ba5de630d627a6016081859fbe2 HR-Developers <hr.ramirezoli@gmail.com> 1614084815 -0500	commit: ok
+717eae161aa90ba5de630d627a6016081859fbe2 a446726c9e07e5fb564dc27cbd7f729ad4a81ffb HR-Developers <hr.ramirezoli@gmail.com> 1614181008 -0500	commit: ok
+a446726c9e07e5fb564dc27cbd7f729ad4a81ffb a595670ab535ced553a99b3556d49195da3b80e6 HR-Developers <hr.ramirezoli@gmail.com> 1614801211 -0500	commit: actualizacion scripts
+a595670ab535ced553a99b3556d49195da3b80e6 87a7833a882fead22bf7a283cd43a536a7d182af HR-Developers <hr.ramirezoli@gmail.com> 1615207324 -0500	commit: ok
+87a7833a882fead22bf7a283cd43a536a7d182af 41536e4d9c1d79dcffded93dbfff5d48762886dd HR-Developers <hr.ramirezoli@gmail.com> 1615993819 -0500	commit: ok
+41536e4d9c1d79dcffded93dbfff5d48762886dd b1b54222a081f27cdf9594456330638c6e156c3a HR-Developers <hr.ramirezoli@gmail.com> 1616601730 -0500	commit: actualizacion admin LTE
+b1b54222a081f27cdf9594456330638c6e156c3a b5fcc48ba1acfec4970d152676b6a01ea58532ae HR-Developers <hr.ramirezoli@gmail.com> 1616790681 -0500	commit: ok
+b5fcc48ba1acfec4970d152676b6a01ea58532ae d7923fcab7d49b8a3e8cbc81716a466547c2bda3 HR-Developers <hr.ramirezoli@gmail.com> 1617226207 -0500	commit: OK
+d7923fcab7d49b8a3e8cbc81716a466547c2bda3 e05ad2e8b63e595a57eed79d3681e764feda8810 HR-Developers <hr.ramirezoli@gmail.com> 1617649289 -0500	commit: ok
+e05ad2e8b63e595a57eed79d3681e764feda8810 10a8d8ced4628bd44db39ab12ad32302ff023819 HR-Developers <hr.ramirezoli@gmail.com> 1617713557 -0500	commit: ok
+10a8d8ced4628bd44db39ab12ad32302ff023819 0000000000000000000000000000000000000000 devhr7 <hr.ramirezoli@gmail.com> 1771247324 -0500	Branch: renamed refs/heads/main to refs/heads/main
+10a8d8ced4628bd44db39ab12ad32302ff023819 10a8d8ced4628bd44db39ab12ad32302ff023819 devhr7 <hr.ramirezoli@gmail.com> 1771247324 -0500	Branch: renamed refs/heads/main to refs/heads/main

@@ -1,0 +1,10 @@
+[27-Nov-2023 21:08:36 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/novedades/create/crear.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/novedades/create/crear.php on line 5
+[02-Mar-2024 11:11:13 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head3.php on line 82
+[02-Mar-2024 11:11:13 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head3.php on line 89
+[02-Mar-2024 11:11:13 America/Bogota] PHP Fatal error:  Uncaught Error: Class "t1_terceros" not found in /home3/concr/portal.concretol.co/modules/novedades/create/crear.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/novedades/create/crear.php on line 5

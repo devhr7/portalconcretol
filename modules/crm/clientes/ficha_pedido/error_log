@@ -1,0 +1,12 @@
+[08-Mar-2023 10:39:46 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_clientes() on null in /home3/concr/portal.concretol.co/modules/crm/clientes/ficha_pedido/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/crm/clientes/ficha_pedido/index.php on line 95
+[15-May-2023 12:08:34 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_clientes() on null in /home3/concr/portal.concretol.co/modules/crm/clientes/ficha_pedido/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/crm/clientes/ficha_pedido/index.php on line 95
+[14-Jul-2023 16:23:35 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_clientes() on null in /home3/concr/portal.concretol.co/modules/crm/clientes/ficha_pedido/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/crm/clientes/ficha_pedido/index.php on line 95

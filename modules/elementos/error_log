@@ -1,0 +1,101 @@
+[21-Jul-2023 08:50:04 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function elementos::crear_salida_epp(), 10 passed in /home3/concr/portal.concretol.co/modules/elementos/php_crear.php on line 32 and exactly 13 expected in /home3/concr/portal.concretol.co/modelos/elementos.php:196
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modules/elementos/php_crear.php(32): elementos->crear_salida_epp('2023-07-15', '133', 'PERSONAL EXTERN...', '46', 'EXTERNO', '9', 'EXTERNO', '34', 'PROTECTOR RESPI...', '1')
+#1 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/elementos.php on line 196
+[21-Jul-2023 08:50:24 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/index.php on line 5
+[21-Jul-2023 21:35:02 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/index.php on line 5
+[28-Jul-2023 15:55:20 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/index.php on line 5
+[30-Aug-2023 13:58:48 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/index.php on line 5
+[21-Aug-2024 12:23:17 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/index.php on line 5
+[26-Aug-2024 14:05:41 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/index.php on line 5
+[30-Sep-2024 14:21:29 America/Bogota] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home3/concr/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/elementos/index.php on line 5
+[11-Jul-2025 19:55:59 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5
+[14-Jul-2025 17:18:09 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5
+[15-Jul-2025 16:26:15 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5
+[01-Oct-2025 15:48:09 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5
+[03-Oct-2025 12:47:28 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5
+[04-Oct-2025 12:26:23 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5
+[04-Oct-2025 12:26:23 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5
+[14-Oct-2025 13:26:09 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5
+[15-Oct-2025 16:44:52 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5
+[15-Oct-2025 16:44:53 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5
+[23-Oct-2025 19:35:15 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5
+[27-Oct-2025 16:34:24 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5
+[04-Nov-2025 13:35:51 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5
+[06-Nov-2025 12:39:28 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5
+[06-Nov-2025 12:39:29 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5
+[10-Nov-2025 12:58:58 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5
+[10-Nov-2025 12:58:58 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/elementos/index.php on line 5

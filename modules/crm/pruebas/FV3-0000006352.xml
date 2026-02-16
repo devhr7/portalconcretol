@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:qdt="urn:oasis:names:specification:ubl:schema:xsd:QualifiedDatatypes-2" xmlns:sts="dian:gov:co:facturaelectronica:Structures-2-1" xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xsi:schemaLocation="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2 http://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Invoice-2.1.xsd">
+	<UBLExtensions>
+		<UBLExtension>
+			<ExtensionContent>
+				<DianExtensions>
+					<InvoiceControl>
+						<InvoiceAuthorization>
+							18764023036006
+						</InvoiceAuthorization>
+						<AuthorizationPeriod>
+							<StartDate>
+								2021-12-18
+							</StartDate>
+							<EndDate>
+								2022-12-18
+							</EndDate>
+						</AuthorizationPeriod>
+						<AuthorizedInvoices>
+							<Prefix>
+								FVE
+							</Prefix>
+							<From>
+								5733
+							</From>
+							<To>
+								20000
+							</To>
+						</AuthorizedInvoices>
+					</InvoiceControl>
+					<InvoiceSource>
+						<IdentificationCode listAgencyID="6" listAgencyName="United Nations Economic Commission for Europe" listSchemeURI="urn:oasis:names:specification:ubl:codelist:gc:CountryIdentificationCode-2.1">
+							CO
+						</IdentificationCode>
+					</InvoiceSource>
+					<SoftwareProvider>
+						<ProviderID schemeID="7" schemeName="31" schemeAgencyID="195" schemeAgencyName="CO, DIAN (Dirección de Impuestos y Aduanas Nacionales)">
+							900083058
+						</ProviderID>
+						<SoftwareID schemeAgencyID="195" schemeAgencyName="CO, DIAN (Dirección de Impuestos y Aduanas Nacionales)">
+							27bc2be2-0873-4c9c-88a9-94a3fed23456
+						</SoftwareID>
+					</SoftwareProvider>
+					<SoftwareSecurityCode schemeAgencyID="195" schemeAgencyName="CO, DIAN (Dirección de Impuestos y Aduanas Nacionales)">
+						107b75b0f7b6fe7345b5cb7a1edc4b41575394e701a16e214c3c220cc2a067714ba58d0dde3c24b14ada5bd152046214
+					</SoftwareSecurityCode>
+					<AuthorizationProvider>
+						<AuthorizationProviderID schemeID="4" schemeName="31" schemeAgencyID="195" schemeAgencyName="CO, DIAN (Dirección de Impuestos y Aduanas Nacionales)">
+							800197268
+						</AuthorizationProviderID>
+					</AuthorizationProvider>
+					<QRCode>
+						https://catalogo-vpfe.dian.gov.co/document/searchqr?documentkey=a8400b2b32bd05563cba73c827ced86b5f9386ea9654948bf24e6ca6ac16d86db0bda8b4f1cc6dbf62ad29699c3250c9
+					</QRCode>
+				</DianExtensions>
+			</ExtensionContent>
+		</UBLExtension>
+		<UBLExtension>
+			<ExtensionContent>
+				<Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-ab2df1fb-1819-413d-8b8c-79e9ed75638a">
+					<SignedInfo>
+						<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+						<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+						<Reference Id="xmldsig-ab2df1fb-1819-413d-8b8c-79e9ed75638a-ref0" URI="">
+							<Transforms>
+								<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+							</Transforms>
+							<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+							<DigestValue>
+								J9rnlil7fekxFaw/uJt5YLm2T0GJBRchnJiVXj/QUXE=
+							</DigestValue>
+						</Reference>
+						<Reference Id="xmldsig-ab2df1fb-1819-413d-8b8c-79e9ed75638a-ref1" URI="#KeyInfo">
+							<Transforms>
+								<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+							</Transforms>
+							<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+							<DigestValue>
+								af/awDHBF11ka92k2GX4Zos2nqKmuPXeNxJ15KUZkis=
+							</DigestValue>
+						</Reference>
+						<Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-ab2df1fb-1819-413d-8b8c-79e9ed75638a-signedprops">
+							<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+							<DigestValue>
+								p08s+d+cZJruqvS0/4FxHF8fQb/EpfSaGuHhnXQfVJY=
+							</DigestValue>
+						</Reference>
+					</SignedInfo>
+					<SignatureValue>
+						PengLrqteU/Keo6beAxhT//mWbvH6DJkiC+AybTgYT/SH07muV7C/NEnLAMALGoR8iT3fqFmYcmxPTYU5aBsIS8TO/LBRt3VpWA+bcoYlGmPFgnkr/Of0dYSX/uezIhoQTXxT17BScXfVJ9RK0wsWRL6Bww758RrvzU1ihYxoXkWgdQQfoYB0CHMGzvp00oflYLeQ+3P9iu1eWaQQUHd/H7lbwXfwCx8IwCzZ6WZkfnwUuRlGnBS1sZTAWbe8frDeDNDHYDAV/LnBNbmdTt+5ZyRVGSuf36Q7+sylK5HHKe7sx3D0WNmfmdSkCO3lG2H3OOTkLkwhvKpIRSjoNQ0HQ==
+					</SignatureValue>
+					<KeyInfo Id="KeyInfo">
+						<X509Data>
+							<X509Certificate>
+								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
+							</X509Certificate>
+						</X509Data>
+					</KeyInfo>
+					<Object>
+						<QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Id="QualifyingProperties-aa262416-8607-4f02-8897-0a6440a1ae03" Target="#xmldsig-ab2df1fb-1819-413d-8b8c-79e9ed75638a">
+							<SignedProperties Id="xmldsig-ab2df1fb-1819-413d-8b8c-79e9ed75638a-signedprops">
+								<SignedSignatureProperties>
+									<SigningTime>
+										2022-02-16T00:37:18Z
+									</SigningTime>
+									<SigningCertificate>
+										<Cert>
+											<CertDigest>
+												<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+												<DigestValue>
+													4p52KS2fHbRByK50HW6UspBLNQhAdxPPrrUr0DxKbYw=
+												</DigestValue>
+											</CertDigest>
+											<IssuerSerial>
+												<X509IssuerName>
+													C=CO, L=Bogota D.C., O=Andes SCD, OU=Division de certificacion entidad final, CN=CA ANDES SCD S.A. Clase II v2, E=info@andesscd.com.co
+												</X509IssuerName>
+												<X509SerialNumber>
+													4643533864137028232
+												</X509SerialNumber>
+											</IssuerSerial>
+										</Cert>
+									</SigningCertificate>
+									<SignaturePolicyIdentifier>
+										<SignaturePolicyId>
+											<SigPolicyId>
+												<Identifier>
+													https://facturaelectronica.dian.gov.co/politicadefirma/v2/politicadefirmav2.pdf
+												</Identifier>
+												<Description>
+													Política de firma para facturas electrónicas de la República de Colombia
+												</Description>
+											</SigPolicyId>
+											<SigPolicyHash>
+												<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+												<DigestValue>
+													dMoMvtcG5aIzgYo0tIsSQeVJBDnUnfSOfBpxXrmor0Y=
+												</DigestValue>
+											</SigPolicyHash>
+										</SignaturePolicyId>
+									</SignaturePolicyIdentifier>
+									<SignerRole>
+										<ClaimedRoles>
+											<ClaimedRole>
+												supplier
+											</ClaimedRole>
+										</ClaimedRoles>
+									</SignerRole>
+								</SignedSignatureProperties>
+							</SignedProperties>
+						</QualifyingProperties>
+					</Object>
+				</Signature>
+			</ExtensionContent>
+		</UBLExtension>
+	</UBLExtensions>
+	<UBLVersionID>
+		UBL 2.1
+	</UBLVersionID>
+	<CustomizationID>
+		10
+	</CustomizationID>
+	<ProfileID>
+		DIAN 2.1: Factura Electrónica de Venta
+	</ProfileID>
+	<ProfileExecutionID>
+		1
+	</ProfileExecutionID>
+	<ID>
+		FVE6352
+	</ID>
+	<UUID schemeID="1" schemeName="CUFE-SHA384">
+		a8400b2b32bd05563cba73c827ced86b5f9386ea9654948bf24e6ca6ac16d86db0bda8b4f1cc6dbf62ad29699c3250c9
+	</UUID>
+	<IssueDate>
+		2022-02-15
+	</IssueDate>
+	<IssueTime>
+		11:58:21-05:00
+	</IssueTime>
+	<DueDate>
+		2022-03-30
+	</DueDate>
+	<InvoiceTypeCode>
+		01
+	</InvoiceTypeCode>
+	<Note>
+		POR HABER RECIBIDO REAL Y MATERIALMENTE LOS PRODUCTOS RELACIONADOS EN ESTA FACTURA DE VENTA, ACEPTAMOS INCONDICIONALMENTE LA MISMA EN LOS TÉRMINOS DE SU LIBRAMIENTO. ESTA FACTURA DE VENTA CAUSARÁ INTERESES MORATORIOS A PARTIR DE SU VENCIMIENTO A LA TASA MÁXIMA LEGAL PERMITIDA POR LA NORMATIVIDAD COLOMBIANA
+	</Note>
+	<Note>
+		LA PRESENTE FACTURA DE VENTA SE ASIMILA EN SUS EFECTOS LEGALES A LALETRA DE CAMBIO Y ES TITULO VALOR SEGUN LA LEY 1231 DE 2008, Y SUS DECRETOS REGLAMENTARIOS
+	</Note>
+	<Note>
+		REALIZAR SUS PAGOS MEDIANTE CONSIGNACION O TRASLADO ELECTRONICO A NOMBRE DE CONCRE TOLIMA S.A NIT: 900.180.449-9,  EN LAS SIGUIENTES CUENTAS  BANCARIAS
+	</Note>
+	<Note>
+		BODEGA: BODEGA PRINCIPAL
+	</Note>
+	<Note>
+		NUMERO EXTERNO: 6352
+	</Note>
+	<Note>
+		DETALLE: AUTORIZACION  1173630   E/A 349100021
+	</Note>
+	<Note>
+		VENDEDOR: CONCRE TOLIMA SA
+	</Note>
+	<Note>
+		SON: UN MILLON QUINIENTOS OCHENTA Y CINCO MIL SEISCIENTOS SETENTA Y CINCO PESOS MCTE
+	</Note>
+	<DocumentCurrencyCode>
+		COP
+	</DocumentCurrencyCode>
+	<LineCountNumeric>
+		2.00
+	</LineCountNumeric>
+	<InvoicePeriod>
+		<StartDate>
+			2022-02-01
+		</StartDate>
+		<EndDate>
+			2022-02-28
+		</EndDate>
+	</InvoicePeriod>
+	<OrderReference>
+		<ID>
+			349100005
+		</ID>
+	</OrderReference>
+	<AccountingSupplierParty>
+		<AdditionalAccountID schemeID="01">
+			1
+		</AdditionalAccountID>
+		<Party>
+			<IndustryClassificationCode>
+				2395
+			</IndustryClassificationCode>
+			<PartyName>
+				<Name>
+					CONCRE TOLIMA S.A.
+				</Name>
+			</PartyName>
+			<PhysicalLocation>
+				<Address>
+					<ID>
+						73001
+					</ID>
+					<CityName>
+						IBAGUÉ
+					</CityName>
+					<PostalZone>
+						730001
+					</PostalZone>
+					<CountrySubentity>
+						TOLIMA
+					</CountrySubentity>
+					<CountrySubentityCode>
+						73
+					</CountrySubentityCode>
+					<AddressLine>
+						<Line>
+							AVENIDA MIROLINDO N 77  56
+						</Line>
+					</AddressLine>
+					<Country>
+						<IdentificationCode>
+							CO
+						</IdentificationCode>
+						<Name languageID="es">
+							Colombia
+						</Name>
+					</Country>
+				</Address>
+			</PhysicalLocation>
+			<PartyTaxScheme>
+				<RegistrationName>
+					CONCRE TOLIMA SA
+				</RegistrationName>
+				<CompanyID schemeID="9" schemeName="31" schemeAgencyName="CO, DIAN (Dirección de Impuestos y Aduanas Nacionales)" schemeAgencyID="195">
+					900180449
+				</CompanyID>
+				<TaxLevelCode listName="48">
+					R-99-PN
+				</TaxLevelCode>
+				<RegistrationAddress>
+					<ID>
+						73001
+					</ID>
+					<CityName>
+						IBAGUÉ
+					</CityName>
+					<PostalZone>
+						730001
+					</PostalZone>
+					<CountrySubentity>
+						TOLIMA
+					</CountrySubentity>
+					<CountrySubentityCode>
+						73
+					</CountrySubentityCode>
+					<AddressLine>
+						<Line>
+							AVENIDA MIROLINDO N 77  56
+						</Line>
+					</AddressLine>
+					<Country>
+						<IdentificationCode>
+							CO
+						</IdentificationCode>
+						<Name languageID="es">
+							Colombia
+						</Name>
+					</Country>
+				</RegistrationAddress>
+				<TaxScheme>
+					<ID>
+						01
+					</ID>
+					<Name>
+						IVA
+					</Name>
+				</TaxScheme>
+			</PartyTaxScheme>
+			<PartyLegalEntity>
+				<RegistrationName>
+					CONCRE TOLIMA SA
+				</RegistrationName>
+				<CompanyID schemeID="9" schemeName="31" schemeAgencyName="CO, DIAN (Dirección de Impuestos y Aduanas Nacionales)" schemeAgencyID="195">
+					900180449
+				</CompanyID>
+				<CorporateRegistrationScheme>
+					<ID>
+						FVE
+					</ID>
+				</CorporateRegistrationScheme>
+			</PartyLegalEntity>
+			<Contact>
+				<Telephone>
+					2685061
+				</Telephone>
+				<ElectronicMail>
+					facturaventae@concretol.com
+				</ElectronicMail>
+			</Contact>
+		</Party>
+	</AccountingSupplierParty>
+	<AccountingCustomerParty>
+		<AdditionalAccountID>
+			1
+		</AdditionalAccountID>
+		<Party>
+			<PartyIdentification>
+				<ID schemeID="2" schemeName="31">
+					800200598
+				</ID>
+			</PartyIdentification>
+			<PartyName>
+				<Name />
+			</PartyName>
+			<PhysicalLocation>
+				<Address>
+					<ID>
+						11001
+					</ID>
+					<CityName>
+						BOGOTA D.C.
+					</CityName>
+					<CountrySubentity>
+						BOGOTA
+					</CountrySubentity>
+					<CountrySubentityCode>
+						11
+					</CountrySubentityCode>
+					<AddressLine>
+						<Line>
+							CARRERA 19  NO 90 - 10 PISO 7
+						</Line>
+					</AddressLine>
+					<Country>
+						<IdentificationCode>
+							CO
+						</IdentificationCode>
+						<Name languageID="es">
+							COLOMBIA
+						</Name>
+					</Country>
+				</Address>
+			</PhysicalLocation>
+			<PartyTaxScheme>
+				<RegistrationName>
+					PRODESA Y CIA S A
+				</RegistrationName>
+				<CompanyID schemeID="2" schemeName="31" schemeAgencyName="CO, DIAN (Dirección de Impuestos y Aduanas Nacionales)" schemeAgencyID="195">
+					800200598
+				</CompanyID>
+				<TaxLevelCode listName="48">
+					R-99-PN
+				</TaxLevelCode>
+				<RegistrationAddress>
+					<ID>
+						11001
+					</ID>
+					<CityName>
+						BOGOTA D.C.
+					</CityName>
+					<CountrySubentity>
+						BOGOTA
+					</CountrySubentity>
+					<CountrySubentityCode>
+						11
+					</CountrySubentityCode>
+					<AddressLine>
+						<Line>
+							CARRERA 19  NO 90 - 10 PISO 7
+						</Line>
+					</AddressLine>
+					<Country>
+						<IdentificationCode>
+							CO
+						</IdentificationCode>
+						<Name languageID="es">
+							COLOMBIA
+						</Name>
+					</Country>
+				</RegistrationAddress>
+				<TaxScheme>
+					<ID>
+						01
+					</ID>
+					<Name>
+						IVA
+					</Name>
+				</TaxScheme>
+			</PartyTaxScheme>
+			<PartyLegalEntity>
+				<RegistrationName>
+					PRODESA Y CIA S A
+				</RegistrationName>
+				<CompanyID schemeID="2" schemeName="31" schemeAgencyName="CO, DIAN (Dirección de Impuestos y Aduanas Nacionales)" schemeAgencyID="195">
+					800200598
+				</CompanyID>
+			</PartyLegalEntity>
+			<Contact>
+				<Name />
+				<Telephone>
+					3139030
+				</Telephone>
+				<ElectronicMail>
+					facturacion@facturacion.prodesa.com
+				</ElectronicMail>
+			</Contact>
+		</Party>
+	</AccountingCustomerParty>
+	<PaymentMeans>
+		<ID>
+			2
+		</ID>
+		<PaymentMeansCode>
+			1
+		</PaymentMeansCode>
+		<PaymentDueDate>
+			2022-03-30
+		</PaymentDueDate>
+	</PaymentMeans>
+	<TaxTotal>
+		<TaxAmount currencyID="COP">
+			253175
+		</TaxAmount>
+		<RoundingAmount currencyID="COP">
+			0.00
+		</RoundingAmount>
+		<TaxSubtotal>
+			<TaxableAmount currencyID="COP">
+				1332500
+			</TaxableAmount>
+			<TaxAmount currencyID="COP">
+				253175
+			</TaxAmount>
+			<TaxCategory>
+				<Percent>
+					19.00
+				</Percent>
+				<TaxScheme>
+					<ID>
+						01
+					</ID>
+					<Name>
+						IVA
+					</Name>
+				</TaxScheme>
+			</TaxCategory>
+		</TaxSubtotal>
+	</TaxTotal>
+	<LegalMonetaryTotal>
+		<LineExtensionAmount currencyID="COP">
+			1332500
+		</LineExtensionAmount>
+		<TaxExclusiveAmount currencyID="COP">
+			1332500
+		</TaxExclusiveAmount>
+		<TaxInclusiveAmount currencyID="COP">
+			1585675
+		</TaxInclusiveAmount>
+		<AllowanceTotalAmount currencyID="COP">
+			0
+		</AllowanceTotalAmount>
+		<ChargeTotalAmount currencyID="COP">
+			0
+		</ChargeTotalAmount>
+		<PrepaidAmount currencyID="COP">
+			0
+		</PrepaidAmount>
+		<PayableRoundingAmount currencyID="COP">
+			0
+		</PayableRoundingAmount>
+		<PayableAmount currencyID="COP">
+			1585675
+		</PayableAmount>
+	</LegalMonetaryTotal>
+	<InvoiceLine>
+		<ID schemeID="0">
+			1
+		</ID>
+		<UUID>
+			FV30000006352_69K0PGY9R
+		</UUID>
+		<InvoicedQuantity unitCode="WSD">
+			2
+		</InvoicedQuantity>
+		<LineExtensionAmount currencyID="COP">
+			533000
+		</LineExtensionAmount>
+		<TaxTotal>
+			<TaxAmount currencyID="COP">
+				101270
+			</TaxAmount>
+			<TaxEvidenceIndicator>
+				false
+			</TaxEvidenceIndicator>
+			<TaxSubtotal>
+				<TaxableAmount currencyID="COP">
+					533000
+				</TaxableAmount>
+				<TaxAmount currencyID="COP">
+					101270
+				</TaxAmount>
+				<TaxCategory>
+					<Percent>
+						19.00
+					</Percent>
+					<TaxScheme>
+						<ID>
+							01
+						</ID>
+						<Name>
+							IVA
+						</Name>
+					</TaxScheme>
+				</TaxCategory>
+			</TaxSubtotal>
+		</TaxTotal>
+		<Item>
+			<Description>
+				CRTO. PLASTIO 1500 PSI TM 1" M3
+			</Description>
+			<PackSizeNumeric>
+				1.00
+			</PackSizeNumeric>
+			<BrandName>
+				CONCRETOL
+			</BrandName>
+			<SellersItemIdentification>
+				<ID>
+					03105100000
+				</ID>
+			</SellersItemIdentification>
+			<StandardItemIdentification>
+				<ID schemeID="999">
+					03105100000
+				</ID>
+			</StandardItemIdentification>
+		</Item>
+		<Price>
+			<PriceAmount currencyID="COP">
+				266500
+			</PriceAmount>
+			<BaseQuantity unitCode="WSD">
+				2
+			</BaseQuantity>
+		</Price>
+	</InvoiceLine>
+	<InvoiceLine>
+		<ID schemeID="0">
+			2
+		</ID>
+		<UUID>
+			FV30000006352_69K0PH4AS
+		</UUID>
+		<InvoicedQuantity unitCode="WSD">
+			3
+		</InvoicedQuantity>
+		<LineExtensionAmount currencyID="COP">
+			799500
+		</LineExtensionAmount>
+		<TaxTotal>
+			<TaxAmount currencyID="COP">
+				151905
+			</TaxAmount>
+			<TaxEvidenceIndicator>
+				false
+			</TaxEvidenceIndicator>
+			<TaxSubtotal>
+				<TaxableAmount currencyID="COP">
+					799500
+				</TaxableAmount>
+				<TaxAmount currencyID="COP">
+					151905
+				</TaxAmount>
+				<TaxCategory>
+					<Percent>
+						19.00
+					</Percent>
+					<TaxScheme>
+						<ID>
+							01
+						</ID>
+						<Name>
+							IVA
+						</Name>
+					</TaxScheme>
+				</TaxCategory>
+			</TaxSubtotal>
+		</TaxTotal>
+		<Item>
+			<Description>
+				CRTO. PLASTIO 1500 PSI TM 1" M3
+			</Description>
+			<PackSizeNumeric>
+				1.00
+			</PackSizeNumeric>
+			<BrandName>
+				CONCRETOL
+			</BrandName>
+			<SellersItemIdentification>
+				<ID>
+					03105100000
+				</ID>
+			</SellersItemIdentification>
+			<StandardItemIdentification>
+				<ID schemeID="999">
+					03105100000
+				</ID>
+			</StandardItemIdentification>
+		</Item>
+		<Price>
+			<PriceAmount currencyID="COP">
+				266500
+			</PriceAmount>
+			<BaseQuantity unitCode="WSD">
+				3
+			</BaseQuantity>
+		</Price>
+	</InvoiceLine>
+</Invoice>

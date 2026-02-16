@@ -1,0 +1,8 @@
+[01-Mar-2024 07:09:46 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head3.php on line 82
+[01-Mar-2024 07:09:46 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head3.php on line 89
+[01-Mar-2024 07:09:46 America/Bogota] PHP Warning:  Undefined variable $nombre1 in /home3/concr/portal.concretol.co/modules/usuarios_clientes/update/editar.php on line 65
+[01-Mar-2024 07:09:46 America/Bogota] PHP Warning:  Undefined variable $apellido1 in /home3/concr/portal.concretol.co/modules/usuarios_clientes/update/editar.php on line 71
+[01-Mar-2024 07:09:46 America/Bogota] PHP Warning:  Undefined variable $numero_identificacion in /home3/concr/portal.concretol.co/modules/usuarios_clientes/update/editar.php on line 77
+[01-Mar-2024 07:09:46 America/Bogota] PHP Warning:  Undefined variable $id_cliente1 in /home3/concr/portal.concretol.co/modules/usuarios_clientes/update/editar.php on line 134
+[01-Mar-2024 07:10:46 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head3.php on line 82
+[01-Mar-2024 07:10:46 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head3.php on line 89

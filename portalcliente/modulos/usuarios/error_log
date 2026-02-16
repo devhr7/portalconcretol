@@ -1,0 +1,12 @@
+[14-Jul-2024 07:08:04 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function get_ct1_usuariosclientes2() on null in /home3/concr/portal.concretol.co/portalcliente/modulos/usuarios/index.php:216
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/portalcliente/modulos/usuarios/index.php on line 216
+[15-Jul-2024 06:25:29 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function get_ct1_usuariosclientes2() on null in /home3/concr/portal.concretol.co/portalcliente/modulos/usuarios/index.php:216
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/portalcliente/modulos/usuarios/index.php on line 216
+[20-Aug-2024 23:06:10 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function get_ct1_usuariosclientes2() on null in /home3/concr/portal.concretol.co/portalcliente/modulos/usuarios/index.php:216
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/portalcliente/modulos/usuarios/index.php on line 216

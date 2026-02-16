@@ -1,0 +1,24 @@
+[10-Apr-2025 11:40:14 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`concr_bdportalconcretol`.`ct65_pedidos`, CONSTRAINT `ct65_pedidos_ibfk_2` FOREIGN KEY (`id_comercial`) REFERENCES `ct1_terceros` (`ct1_IdTerceros`)) in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/t1_terceros.php:854
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/t1_terceros.php(854): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/update/php_eliminar.php(19): t1_terceros->eliminar_funcionario('508')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/t1_terceros.php on line 854
+[10-Apr-2025 11:40:35 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`concr_bdportalconcretol`.`ct65_pedidos`, CONSTRAINT `ct65_pedidos_ibfk_2` FOREIGN KEY (`id_comercial`) REFERENCES `ct1_terceros` (`ct1_IdTerceros`)) in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/t1_terceros.php:854
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/t1_terceros.php(854): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/update/php_eliminar.php(19): t1_terceros->eliminar_funcionario('508')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/t1_terceros.php on line 854
+[12-Nov-2025 10:40:13 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`concr_bdportalconcretol`.`ct65_pedidos`, CONSTRAINT `ct65_pedidos_ibfk_2` FOREIGN KEY (`id_comercial`) REFERENCES `ct1_terceros` (`ct1_IdTerceros`)) in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/t1_terceros.php:854
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/t1_terceros.php(854): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/update/php_eliminar.php(19): t1_terceros->eliminar_funcionario('508')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/t1_terceros.php on line 854
+[12-Nov-2025 10:40:37 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`concr_bdportalconcretol`.`ct65_pedidos`, CONSTRAINT `ct65_pedidos_ibfk_2` FOREIGN KEY (`id_comercial`) REFERENCES `ct1_terceros` (`ct1_IdTerceros`)) in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/t1_terceros.php:854
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/t1_terceros.php(854): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/update/php_eliminar.php(19): t1_terceros->eliminar_funcionario('508')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/t1_terceros.php on line 854

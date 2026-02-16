@@ -1,0 +1,28 @@
+[13-Dec-2023 12:01:28 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 75
+[13-Dec-2023 12:01:28 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 84
+[24-Dec-2023 14:40:00 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 75
+[24-Dec-2023 14:40:00 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 84
+[29-Dec-2023 17:59:26 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 75
+[29-Dec-2023 17:59:26 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 84
+[04-Jan-2024 14:37:47 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 75
+[04-Jan-2024 14:37:47 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 84
+[06-Jan-2024 11:20:39 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 75
+[06-Jan-2024 11:20:39 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 84
+[26-Jan-2024 11:42:19 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 75
+[26-Jan-2024 11:42:19 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 84
+[31-Jan-2024 14:56:11 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 75
+[31-Jan-2024 14:56:11 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 84
+[31-Jan-2024 14:56:11 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 75
+[31-Jan-2024 14:56:11 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 84
+[22-Feb-2024 12:43:29 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 75
+[22-Feb-2024 12:43:29 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 84
+[28-Feb-2024 11:39:13 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 75
+[28-Feb-2024 11:39:13 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 84
+[04-Mar-2024 10:30:17 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 75
+[04-Mar-2024 10:30:17 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 84
+[06-Mar-2024 15:32:12 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 75
+[06-Mar-2024 15:32:12 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 84
+[08-Mar-2024 16:50:54 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 75
+[08-Mar-2024 16:50:54 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head2.php on line 84
+[01-Apr-2024 19:16:01 UTC] PHP Warning: [01-Apr-2024 15:39:57 America/Bogota] PHP Deprecated:  Creation of dynamic property t4_productos::$PDO is deprecated in /home/concr/portal.concretol.co/modelos/t4_productos.php on line 15
+[01-Apr-2024 15:39:57 America/Bogota] PHP Deprecated:  Creation of dynamic property php_clases::$hashnum is deprecated in /home/concr/portal.concretol.co/librerias/php_clases.php on line 125

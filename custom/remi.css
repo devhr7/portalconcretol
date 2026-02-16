@@ -1,0 +1,49 @@
+#n_rem{
+color: red;
+font-size: xx-large;
+
+}
+
+#titulo{
+    text-align: center;
+    font-size: large;
+}
+
+#enc{
+    text-align: center;
+    font-size: small;
+}
+
+#estilo_t{
+    border-style: solid;
+    border-width: 0.01cm;
+    margin-top: 0.2cm ;
+  
+    
+}
+#estilo_t2{
+   margin: 20px;
+   text-align:left;
+   text-orientation: sideways-right;
+}
+
+#esp{
+    border-style: solid;
+    border-width: 0.01cm;
+    margin-right: 1cm;
+    margin: 12px;
+}
+.centrado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.borde-r{
+    border-style: solid;
+    border-color: red;
+}
+.borde-a{
+    border-style: solid;
+    border-color: blue;
+}

@@ -1,0 +1,12 @@
+[01-Aug-2023 15:36:51 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'concr_bdportalconcretol.ct68_param_productos' doesn't exist in /home3/concr/portal.concretol.co/modelos/cls_laboratorio.php:669
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/cls_laboratorio.php(669): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/asc/registro_muestras/param_muestras/datatable_param_muestras.php(24): cls_laboratorio->datatable_param_productos('0')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/cls_laboratorio.php on line 669
+[01-Aug-2023 15:36:51 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'concr_bdportalconcretol.ct68_param_productos' doesn't exist in /home3/concr/portal.concretol.co/modelos/cls_laboratorio.php:669
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/cls_laboratorio.php(669): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/asc/registro_muestras/param_muestras/datatable_param_muestras.php(24): cls_laboratorio->datatable_param_productos('0')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/cls_laboratorio.php on line 669

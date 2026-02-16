@@ -1,0 +1,48 @@
+[20-May-2023 09:02:15 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'concr_bdportalconcretol.registrosgps' doesn't exist in /home3/concr/portal.concretol.co/modelos/t26_remisiones.php:482
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/t26_remisiones.php(482): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/data_table_viajes.php(27): t26_remisiones->inf_viajes(''RMI','RZO','RM...', '2023-05-18')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/t26_remisiones.php on line 482
+[20-May-2023 09:21:56 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'concr_bdportalconcretol.registrosgps' doesn't exist in /home3/concr/portal.concretol.co/modelos/t26_remisiones.php:482
+Stack trace:
+#0 /home3/concr/portal.concretol.co/modelos/t26_remisiones.php(482): PDOStatement->execute()
+#1 /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/data_table_viajes.php(27): t26_remisiones->inf_viajes(''RMI','RZO','RM...', '2023-05-11')
+#2 {main}
+  thrown in /home3/concr/portal.concretol.co/modelos/t26_remisiones.php on line 482
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head4.php on line 126
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head4.php on line 135
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 9
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 10
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 11
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 12
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 13
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 14
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 15
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 16
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 17
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 18
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 19
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 20
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 21
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 22
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 23
+[02-Feb-2024 09:24:39 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 24
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head4.php on line 126
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/layout/head/head4.php on line 135
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 9
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 10
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 11
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 12
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 13
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 14
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 15
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 16
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 17
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 18
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 19
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 20
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 21
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 22
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 23
+[02-Mar-2024 11:08:12 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/remisiones/seguimientomix/totalviajes/Inf_viajes.php on line 24

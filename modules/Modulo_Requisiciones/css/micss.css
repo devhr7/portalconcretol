@@ -1,0 +1,9 @@
+.two-fields {
+    width:100%;
+  }
+  .two-fields .input-group {
+    width:100%;
+  }
+  .two-fields input {
+    width:50% !important;
+  }

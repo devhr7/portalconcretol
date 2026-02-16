@@ -1,0 +1,194 @@
+[19-Oct-2022 17:27:03 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[07-Mar-2023 16:38:37 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[22-Mar-2023 07:48:45 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[22-Mar-2023 15:59:28 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[25-Mar-2023 13:04:23 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[30-Mar-2023 13:39:58 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[18-Apr-2023 09:25:08 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[05-Jul-2023 14:10:45 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[11-Jul-2023 14:36:32 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[25-Jul-2023 11:57:29 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[25-Jul-2023 19:49:59 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[28-Jul-2023 16:11:02 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[04-Aug-2023 12:46:08 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[13-Sep-2023 15:37:48 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[26-Oct-2023 11:40:53 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[31-Oct-2023 20:52:17 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[03-Nov-2023 11:33:36 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[09-Nov-2023 10:57:58 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[15-Nov-2023 13:16:27 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[20-Nov-2023 16:48:12 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[11-Dec-2023 14:14:08 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 13
+[11-Dec-2023 14:14:08 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 14
+[11-Dec-2023 14:14:08 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 15
+[11-Dec-2023 14:14:08 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 98
+[11-Dec-2023 14:14:08 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 107
+[11-Dec-2023 14:14:08 America/Bogota] PHP Warning:  Undefined variable $t1_terceros in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[11-Dec-2023 14:14:08 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[25-Jan-2024 09:34:02 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 13
+[25-Jan-2024 09:34:02 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 14
+[25-Jan-2024 09:34:02 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 15
+[25-Jan-2024 09:34:02 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 98
+[25-Jan-2024 09:34:02 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 107
+[25-Jan-2024 09:34:02 America/Bogota] PHP Warning:  Undefined variable $t1_terceros in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[25-Jan-2024 09:34:02 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[27-Jan-2024 10:40:20 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 13
+[27-Jan-2024 10:40:20 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 14
+[27-Jan-2024 10:40:20 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 15
+[27-Jan-2024 10:40:20 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 98
+[27-Jan-2024 10:40:20 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 107
+[27-Jan-2024 10:40:20 America/Bogota] PHP Warning:  Undefined variable $t1_terceros in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[27-Jan-2024 10:40:20 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[12-Feb-2024 15:53:10 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 13
+[12-Feb-2024 15:53:10 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 14
+[12-Feb-2024 15:53:10 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 15
+[12-Feb-2024 15:53:10 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 98
+[12-Feb-2024 15:53:10 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 107
+[12-Feb-2024 15:53:10 America/Bogota] PHP Warning:  Undefined variable $t1_terceros in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[12-Feb-2024 15:53:10 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[08-Mar-2024 18:32:22 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 13
+[08-Mar-2024 18:32:22 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 14
+[08-Mar-2024 18:32:22 America/Bogota] PHP Warning:  Undefined variable $rol_user in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 15
+[08-Mar-2024 18:32:22 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 98
+[08-Mar-2024 18:32:22 America/Bogota] PHP Warning:  Undefined variable $nombre_usuario in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 107
+[08-Mar-2024 18:32:22 America/Bogota] PHP Warning:  Undefined variable $t1_terceros in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[08-Mar-2024 18:32:22 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[19-Apr-2024 09:43:18 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[25-Apr-2024 06:17:18 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[11-May-2024 09:51:23 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[11-May-2024 11:54:21 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[22-May-2024 10:33:12 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[25-Jun-2024 14:20:41 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[23-Aug-2024 09:19:42 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[10-Sep-2024 11:17:58 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home3/concr/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/empleados/index.php on line 188
+[23-Jan-2025 16:03:54 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/index.php on line 188
+[22-Feb-2025 15:43:26 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/index.php on line 188
+[05-Mar-2025 16:09:48 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/index.php on line 188
+[06-Mar-2025 07:16:08 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/index.php on line 188
+[24-Apr-2025 11:40:11 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/index.php on line 188
+[30-May-2025 22:36:48 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/index.php on line 188
+[19-Jun-2025 07:36:59 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/index.php on line 188
+[13-Aug-2025 10:24:33 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function select_funcionario_all() on null in /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/index.php:188
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/empleados/index.php on line 188

@@ -1,0 +1,8 @@
+[20-Jun-2025 18:23:58 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/crm/pedidos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/crm/pedidos/index.php on line 5
+[20-Jun-2025 18:24:57 UTC] PHP Fatal error:  Uncaught Error: Class 't1_terceros' not found in /home/concr/portal.concretolima.co/portal.concretol.co/modules/crm/pedidos/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modules/crm/pedidos/index.php on line 5

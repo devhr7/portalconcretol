@@ -1,0 +1,852 @@
+[21-Jul-2025 14:07:19 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('2836', 32, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[21-Jul-2025 14:07:22 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('2836', 32, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[21-Jul-2025 14:13:12 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('2836', 32, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[21-Jul-2025 14:13:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('2836', 32, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[21-Jul-2025 14:13:23 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('2836', 32, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[21-Jul-2025 14:13:24 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('2836', 32, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[21-Jul-2025 14:15:25 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('2836', 32, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[21-Jul-2025 14:15:30 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('2836', 32, '', '', '11', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[21-Jul-2025 14:15:35 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('2836', 32, '', '', '11', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[21-Jul-2025 14:15:45 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('2836', 32, '', '', '11', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[21-Jul-2025 14:15:50 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('2836', 32, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[21-Jul-2025 14:16:03 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('2836', 32, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[21-Jul-2025 14:16:46 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('2836', 32, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[21-Jul-2025 14:18:48 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('2836', 32, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 07:46:22 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 07:47:18 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 07:48:18 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 07:49:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 07:50:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 07:51:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 07:52:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 07:53:16 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 07:54:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 07:55:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 07:56:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 07:57:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 07:58:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 07:59:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:00:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:01:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:02:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:03:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:04:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:05:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:06:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:07:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:08:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:08:45 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:08:49 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:08:54 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:08:59 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:09:04 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:09:09 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:09:14 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:09:19 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:09:24 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:09:29 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:09:34 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:09:39 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:09:44 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:10:18 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:10:51 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:10:54 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:10:59 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:11:04 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:11:09 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:11:14 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:11:19 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:11:24 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:11:29 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:11:34 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:11:39 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:11:44 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:11:49 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:12:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:13:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:14:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:14:59 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[25-Jul-2025 08:15:04 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[04-Aug-2025 10:17:56 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:774
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(625): cls_requisiciones::get_area(' Error en la Co...', '547')
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('547', 1, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 774
+[15-Aug-2025 13:12:59 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[15-Aug-2025 13:13:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[15-Aug-2025 13:13:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[15-Aug-2025 13:13:13 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[26-Aug-2025 13:58:31 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[26-Aug-2025 16:01:15 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[26-Aug-2025 16:01:18 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[26-Aug-2025 16:01:21 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[26-Aug-2025 16:01:26 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[08-Sep-2025 14:52:15 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('3097', 25, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[08-Sep-2025 14:52:15 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('3097', 25, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[08-Sep-2025 14:52:20 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('3097', 25, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[08-Sep-2025 14:52:27 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('3097', 25, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[08-Sep-2025 14:52:27 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('3097', 25, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[08-Sep-2025 14:52:33 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones('3097', 25, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[10-Sep-2025 14:34:26 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[10-Sep-2025 16:57:47 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[10-Sep-2025 16:58:10 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[10-Sep-2025 16:59:11 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[10-Sep-2025 17:00:11 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[10-Sep-2025 17:01:11 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[10-Sep-2025 17:02:11 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[10-Sep-2025 17:03:11 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[10-Sep-2025 17:04:11 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[10-Sep-2025 17:05:11 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[10-Sep-2025 17:06:11 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[10-Sep-2025 17:07:11 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[10-Sep-2025 17:08:11 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[10-Sep-2025 17:09:11 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:41:26 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:42:07 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:43:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:44:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:45:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:46:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:47:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:47:23 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:47:29 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:47:34 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:47:35 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:48:15 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:48:16 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:48:21 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:48:26 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:48:31 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:48:36 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:48:41 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:48:46 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:48:51 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:48:56 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:49:01 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:49:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:49:11 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:49:16 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:50:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:51:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:52:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:53:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:54:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:55:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:56:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:57:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:58:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 08:59:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 09:00:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 09:01:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 09:02:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 09:03:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 09:04:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 09:05:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 09:05:34 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637
+[11-Sep-2025 09:05:36 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php:637
+Stack trace:
+#0 /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php(637): PDOStatement->execute()
+#1 /home/concr/portal.concretolima.co/portal.concretol.co/modules/requisicion/data_table_requisicion.php(23): cls_requisiciones->datatable_requisiciones(false, NULL, '', '', '', '')
+#2 {main}
+  thrown in /home/concr/portal.concretolima.co/portal.concretol.co/modelos/cls_requisiciones.php on line 637

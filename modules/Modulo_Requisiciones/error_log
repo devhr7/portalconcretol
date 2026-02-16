@@ -1,0 +1,6 @@
+[30-Mar-2023 09:58:34 America/Bogota] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/concr/portal.concretol.co/modules/Modulo_Requisiciones/conexionBD/Conexion.php on line 30
+[30-Mar-2023 09:58:34 America/Bogota] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/concr/portal.concretol.co/modules/Modulo_Requisiciones/controlador/ControladorRequisiciones.php on line 27
+[30-Mar-2023 09:58:34 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/concr/portal.concretol.co/modules/Modulo_Requisiciones/index.php:92
+Stack trace:
+#0 {main}
+  thrown in /home3/concr/portal.concretol.co/modules/Modulo_Requisiciones/index.php on line 92
