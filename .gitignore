@@ -1,2 +1,6 @@
 internal/
 librerias/config.php
+
+# docker local/server
+Dockerfile
+docker-compose.yml
