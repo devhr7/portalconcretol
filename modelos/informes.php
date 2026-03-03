@@ -25,18 +25,18 @@ class informes extends conexionPDO
     }
 
 
-    function get_nombre_producto($id){
-        $sql="SELECT `ct4_Descripcion` FROM `ct4_productos` WHERE `ct4_Id_productos` = :id";
+    function get_nombre_producto($id)
+    {
+        $sql = "SELECT `ct4_Descripcion` FROM `ct4_productos` WHERE `ct4_Id_productos` = :id";
         $stmt = $this->con->prepare($sql);
         $stmt->bindParam(':id', $id, PDO::PARAM_INT);
-        
+
         if ($result = $stmt->execute()) { // Ejecutar
             $num_reg =  $stmt->rowCount(); // Get Numero de Registro
             if ($num_reg > 0) { // Validar el numero de Registros
                 while ($fila = $stmt->fetch(PDO::FETCH_ASSOC)) { // Obtener los datos de los valores
                     return $fila['ct4_Descripcion'];
                 }
-
             } else {
                 return false;
             }
@@ -293,34 +293,38 @@ class informes extends conexionPDO
 
     {
 
-        $numero_identificacion = intval($numero_identificacion);
+        static $cache_nombres = array();
 
-        $sql = "SELECT `ct1_RazonSocial` FROM `ct1_terceros` WHERE `ct1_NumeroIdentificacion` = :num_identificacion";
+        $numero_identificacion = intval($numero_identificacion);
+        if ($numero_identificacion <= 0) {
+            return false;
+        }
+
+        if (array_key_exists($numero_identificacion, $cache_nombres)) {
+            return $cache_nombres[$numero_identificacion];
+        }
+
+        $sql = "SELECT `ct1_RazonSocial` FROM `ct1_terceros` WHERE `ct1_NumeroIdentificacion` = :num_identificacion LIMIT 1";
 
         $stmt = $con->prepare($sql);
 
         $stmt->bindParam(':num_identificacion', $numero_identificacion, PDO::PARAM_INT);
 
-        if ($result = $stmt->execute()) { // Ejecutar
-
-            $num_reg =  $stmt->rowCount(); // Get Numero de Registros
-
-
-
-            if ($num_reg >= 1) { // Validar el numero de Registros
-
-                while ($fila = $stmt->fetch(PDO::FETCH_ASSOC)) { // Obtener los datos de los valores
-
-                    return $fila['ct1_RazonSocial'];
-                }
-            } else {
-
-                return false;
-            }
-        } else {
-
+        if (!$stmt->execute()) { // Ejecutar
+            $cache_nombres[$numero_identificacion] = false;
             return false;
         }
+
+        $fila = $stmt->fetch(PDO::FETCH_ASSOC);
+        $stmt->closeCursor();
+
+        if ($fila && isset($fila['ct1_RazonSocial'])) {
+            $cache_nombres[$numero_identificacion] = $fila['ct1_RazonSocial'];
+            return $cache_nombres[$numero_identificacion];
+        }
+
+        $cache_nombres[$numero_identificacion] = false;
+        return false;
     }
 
 
@@ -329,35 +333,33 @@ class informes extends conexionPDO
     {
         $this->fecha_ini = $fecha_ini;
         $this->fecha_fin = $fecha_fin;
-        $sql = "SELECT * FROM `ct26_remisiones` WHERE `ct26_fecha_remi` BETWEEN :fecha_ini AND :fecha_fin ORDER BY `ct26_remisiones`.`ct26_id_remision` DESC";
+        $sql = "SELECT r.*, 
+                       cli.ct1_RazonSocial AS nombre_cliente_lookup,
+                       con.ct1_RazonSocial AS nombre_conductor_lookup
+                FROM `ct26_remisiones` r
+                LEFT JOIN `ct1_terceros` cli ON cli.`ct1_NumeroIdentificacion` = r.`ct26_nitcliente`
+                LEFT JOIN `ct1_terceros` con ON con.`ct1_NumeroIdentificacion` = r.`ct26_identificacion_conductor`
+                WHERE r.`ct26_fecha_remi` BETWEEN :fecha_ini AND :fecha_fin
+                ORDER BY r.`ct26_id_remision` DESC";
         $stmt = $this->con->prepare($sql);
         //Formato fecha  AAAA-MM-DD
         $stmt->bindParam(':fecha_ini', $this->fecha_ini, PDO::PARAM_STR);
         $stmt->bindParam(':fecha_fin', $this->fecha_fin, PDO::PARAM_STR);
         if ($stmt->execute()) { // Ejecutar
-            $num_reg =  $stmt->rowCount(); // Get Numero de Registros
-            if ($num_reg > 1) { // Validar el numero de Registros
-                while ($fila = $stmt->fetch(PDO::FETCH_ASSOC)) { // Obtener los datos de los valores
-                    $fila['nombre_conductor'] = SELF::select_nombre_conductor($this->con, $fila['ct26_identificacion_conductor']);
-                    if (SELF::select_nombre_conductor($this->con, $fila['ct26_nitcliente'])) {
-                        $fila['nombre_cliente'] = SELF::select_nombre_conductor($this->con, $fila['ct26_nitcliente']);
-                    } else {
-                        $fila['nombre_cliente'] = $fila['ct26_razon_social'];
-                    }
-                    if (SELF::select_nombre_conductor($this->con, $fila['ct26_identificacion_conductor'])) {
-                        $fila['nombre_conductor'] = SELF::select_nombre_conductor($this->con, $fila['ct26_identificacion_conductor']);
-                    } else {
-                        $fila['nombre_conductor'] = $fila['ct26_nombre_conductor'];
-                    }
-                    $fila['ct26_idcliente'] = $fila['ct26_idcliente'];
-                    $fila['ct26_idObra'] = $fila['ct26_idObra'];
-
-                    $datos[] = $fila;
-                }
-                return $datos;
-            } else {
-                return false;
+            $datos = array();
+            while ($fila = $stmt->fetch(PDO::FETCH_ASSOC)) { // Obtener los datos de los valores
+                $fila['nombre_cliente'] = !empty($fila['nombre_cliente_lookup']) ? $fila['nombre_cliente_lookup'] : $fila['ct26_razon_social'];
+                $fila['nombre_conductor'] = !empty($fila['nombre_conductor_lookup']) ? $fila['nombre_conductor_lookup'] : $fila['ct26_nombre_conductor'];
+                unset($fila['nombre_cliente_lookup'], $fila['nombre_conductor_lookup']);
+                $datos[] = $fila;
             }
+            $stmt->closeCursor();
+
+            if (!empty($datos)) {
+                return $datos;
+            }
+
+            return false;
         } else {
             return false;
         }
@@ -427,7 +429,8 @@ class informes extends conexionPDO
         $this->PDO->closePDO(); // Cerrar Conexion  
     }
 
-    public function get_nombre_segmento($id){
+    public function get_nombre_segmento($id)
+    {
         $this->id = $id;
         $sql = "SELECT `descripcion` FROM `segmento` WHERE `id_segmento` = :id";
         $stmt = $this->con->prepare($sql);
@@ -438,14 +441,15 @@ class informes extends conexionPDO
                 while ($fila = $stmt->fetch(PDO::FETCH_ASSOC)) { // Obtener los datos de los valores
                     return $fila['descripcion'];
                 }
-            }else{
+            } else {
                 return '';
             }
-        }else{
+        } else {
             return '';
         }
     }
-    public function get_nombre_tipo_plan_maestro($id){
+    public function get_nombre_tipo_plan_maestro($id)
+    {
         $this->id = $id;
         $sql = "SELECT `descripcion` FROM `tipo_plan_maestro` WHERE `id` =  :id";
         $stmt = $this->con->prepare($sql);
@@ -456,10 +460,10 @@ class informes extends conexionPDO
                 while ($fila = $stmt->fetch(PDO::FETCH_ASSOC)) { // Obtener los datos de los valores
                     return $fila['descripcion'];
                 }
-            }else{
+            } else {
                 return '';
             }
-        }else{
+        } else {
             return '';
         }
     }

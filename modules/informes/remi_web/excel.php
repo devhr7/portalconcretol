@@ -8,6 +8,8 @@ require '../../../vendor/autoload.php';
 //use PhpOffice\PhpSpreadsheet\Helper\Sample;
 use PhpOffice\PhpSpreadsheet\IOFactory;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
+use PhpOffice\PhpSpreadsheet\Settings;
+use PhpOffice\PhpSpreadsheet\CachedObjectStorageFactory;
 
 
 $informes = new informes();
@@ -16,6 +18,13 @@ $informes = new informes();
 
 
 if (isset($_GET['txt_fecha_ini']) && isset($_GET['txt_fecha_fin'])) {
+    ini_set('memory_limit', '512M');
+    set_time_limit(0);
+
+    $cacheMethod = CachedObjectStorageFactory::cache_to_phpTemp;
+    $cacheSettings = ['memoryCacheSize' => '32MB'];
+    Settings::setCacheStorageMethod($cacheMethod, $cacheSettings);
+
     $fecha_ini = $_GET['txt_fecha_ini'];
     $fecha_fin = $_GET['txt_fecha_fin'];
 
@@ -99,16 +108,20 @@ if (isset($_GET['txt_fecha_ini']) && isset($_GET['txt_fecha_fin'])) {
     header('Cache-Control: max-age=1');
 
     // If you're serving to IE over SSL, then the following may be needed
-   // header('Expires: Mon, 26 Jul 1997 05:00:00 GMT'); // Date in the past
+    // header('Expires: Mon, 26 Jul 1997 05:00:00 GMT'); // Date in the past
     header('Last-Modified: ' . gmdate('D, d M Y H:i:s') . ' GMT'); // always modified
     header('Cache-Control: cache, must-revalidate'); // HTTP/1.1
     header('Pragma: public'); // HTTP/1.0
 
     $writer = IOFactory::createWriter($spreadsheet, 'Xlsx');
+    $writer->setPreCalculateFormulas(false);
     $writer->save('php://output');
+
+    $spreadsheet->disconnectWorksheets();
+    unset($writer, $spreadsheet, $datos);
 
     exit;
 } else {
-    
+
     header('location: index.php');
 }

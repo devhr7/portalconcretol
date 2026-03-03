@@ -1,6 +1,7 @@
 <?php
 class t1_terceros extends conexionPDO
 {
+    public $vt1_num_identificacionuario;
     public $con;
     protected $PDO;
     // Tabla

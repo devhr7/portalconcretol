@@ -8,6 +8,8 @@ require '../../../vendor/autoload.php';
 use PhpOffice\PhpSpreadsheet\Helper\Sample;
 use PhpOffice\PhpSpreadsheet\IOFactory;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
+use PhpOffice\PhpSpreadsheet\Settings;
+use PhpOffice\PhpSpreadsheet\CachedObjectStorageFactory;
 use PhpOffice\PhpSpreadsheet\Style\Border;
 use PhpOffice\PhpSpreadsheet\Style\Fill;
 use PhpOffice\PhpSpreadsheet\Style\Style;
@@ -20,16 +22,23 @@ $php_clases = new php_clases();
 //$fecha_ini = '2020-12-01'; // GET dato de la fecha
 //$fecha_fin = '2020-12-31';  // GET dato de la fecha
 
-$abc1 = array('A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z');
-$abc2 = array('AA','AB','AC','AD','AE','AF','AG','AH','AI','AJ','AK','AL','AM','AN','AO','AP','AQ','AR','AS','AT','AU','AV','AW','AX','AY','AZ');
+$abc1 = array('A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z');
+$abc2 = array('AA', 'AB', 'AC', 'AD', 'AE', 'AF', 'AG', 'AH', 'AI', 'AJ', 'AK', 'AL', 'AM', 'AN', 'AO', 'AP', 'AQ', 'AR', 'AS', 'AT', 'AU', 'AV', 'AW', 'AX', 'AY', 'AZ');
 
 if (isset($_GET['txt_fecha_ini']) && isset($_GET['txt_fecha_fin'])) {
+    ini_set('memory_limit', '512M');
+    set_time_limit(0);
+
+    $cacheMethod = CachedObjectStorageFactory::cache_to_phpTemp;
+    $cacheSettings = ['memoryCacheSize' => '32MB'];
+    Settings::setCacheStorageMethod($cacheMethod, $cacheSettings);
+
     $fecha_ini = $_GET['txt_fecha_ini'];
     $fecha_fin = $_GET['txt_fecha_fin'];
 
 
     $datos_batch = $modelo_batch->select_batches_informe($fecha_ini, $fecha_fin);
-   
+
     // se Crea el Excel
     $spreadsheet = new Spreadsheet();
 
@@ -127,36 +136,38 @@ if (isset($_GET['txt_fecha_ini']) && isset($_GET['txt_fecha_fin'])) {
         ->setCellValue('AQ1', 'NOMBRE ADICTIVO 4')
         ->setCellValue('AR1', 'TEORICO ADICTIVO 4')
         ->setCellValue('AS1', 'REAL ADICTIVO 4')
-        
+
         ->setCellValue('AT1', 'NOMBRE AGUA')
         ->setCellValue('AU1', 'TEORICO AGUA')
         ->setCellValue('AV1', 'REAL AGUA')
 
-        ->setCellValue('AW1','BOMBA')
-        ->setCellValue('AX1','OPERADOR BOMBA')
-        ->setCellValue('AY1','AUX BOMBA')
+        ->setCellValue('AW1', 'BOMBA')
+        ->setCellValue('AX1', 'OPERADOR BOMBA')
+        ->setCellValue('AY1', 'AUX BOMBA')
 
-        ->setCellValue('AZ1','OBSERVACIONES')
-        ->setCellValue('BA1','NOVEDADES DE LA REMISION')
-        ->setCellValue('BB1','RAZON DE LA ANULACION')
-        ->setCellValue('BC1','');
-   
+        ->setCellValue('AZ1', 'OBSERVACIONES')
+        ->setCellValue('BA1', 'NOVEDADES DE LA REMISION')
+        ->setCellValue('BB1', 'RAZON DE LA ANULACION')
+        ->setCellValue('BC1', '');
+
     $x = 2;
     if (is_array($datos_batch)) {
         foreach ($datos_batch as $fila) {
-           // $id_remision = $fila['ct26_id_remision'];
+            // $id_remision = $fila['ct26_id_remision'];
 
-    $estado =  $php_clases->estado_remi2($fila['estado']);
+            $novedades = "";
 
-    if (is_array( $datos_novedad_remi = $modelo_batch->novedades_remi( $fila['id_remision']))) {
-        foreach ($datos_novedad_remi as $key_nov) {
-            $novedades .= $key_nov['ct44_novedades']." ;";
-        }
-    }else{
-        $novedades = "";
-    }
+            $estado =  $php_clases->estado_remi2($fila['estado']);
 
-       
+            if (is_array($datos_novedad_remi = $modelo_batch->novedades_remi($fila['id_remision']))) {
+                foreach ($datos_novedad_remi as $key_nov) {
+                    $novedades .= $key_nov['ct44_novedades'] . " ;";
+                }
+            } else {
+                $novedades = "";
+            }
+
+
             $spreadsheet->setActiveSheetIndex(0)
                 ->setCellValue('A' . $x, $fila['fecha'])
                 ->setCellValue('B' . $x, $fila['hora'])
@@ -216,7 +227,7 @@ if (isset($_GET['txt_fecha_ini']) && isset($_GET['txt_fecha_fin'])) {
                 ->setCellValue('AQ' . $x, $fila['n_adictivo4'])
                 ->setCellValue('AR' . $x, $fila['t_adictivo4'])
                 ->setCellValue('AS' . $x, $fila['r_adictivo4'])
-     
+
                 ->setCellValue('AT' . $x, $fila['n_agua'])
                 ->setCellValue('AU' . $x, $fila['t_agua'])
                 ->setCellValue('AV' . $x, $fila['r_agua'])
@@ -225,18 +236,18 @@ if (isset($_GET['txt_fecha_ini']) && isset($_GET['txt_fecha_fin'])) {
                 ->setCellValue('AX' . $x, $fila['op_bomba']) // OP
                 ->setCellValue('AY' . $x, $fila['aux_bomba']) // AUX
 
-                ->setCellValue('AZ' . $x, $fila['obs'].' ; '.$fila['obs_desp'].' ; '.$fila['obs_cli'].' ; ')  //Observaciones
+                ->setCellValue('AZ' . $x, $fila['obs'] . ' ; ' . $fila['obs_desp'] . ' ; ' . $fila['obs_cli'] . ' ; ')  //Observaciones
 
-                
-           
+
+
 
                 ->setCellValue('BA' . $x, $novedades) // Novedades
                 ->setCellValue('BB' . $x, '') // Razon de la Anulacion
                 ->setCellValue('BC' . $x, '');
-              
-                
 
-                $x++;
+
+
+            $x++;
         }
     }
 
@@ -244,170 +255,12 @@ if (isset($_GET['txt_fecha_ini']) && isset($_GET['txt_fecha_fin'])) {
 
     // Rename worksheet
     $spreadsheet->getActiveSheet()->setTitle('Consumo Materia Prima');
-
-
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('A')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('B')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('C')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('D')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('E')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('F')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('G')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('H')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('I')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('J')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('K')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('L')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('M')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('N')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('O')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('P')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('Q')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('R')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('S')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('T')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('U')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('V')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('W')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('X')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('Y')
-        ->setAutoSize(true);
-    $spreadsheet->getActiveSheet()
-        ->getColumnDimension('Z')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AA')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AB')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AC')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AD')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AE')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AF')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AG')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AH')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AI')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AJ')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AK')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AL')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AM')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AN')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AO')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AP')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AQ')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AR')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AS')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AT')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AU')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AV')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AW')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AX')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AY')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('AZ')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('BA')
-        ->setAutoSize(true);
-        $spreadsheet->getActiveSheet()
-        ->getColumnDimension('BB')
-        ->setAutoSize(true);
+    foreach (range('A', 'Z') as $col) {
+        $spreadsheet->getActiveSheet()->getColumnDimension($col)->setWidth(18);
+    }
+    foreach (['AA', 'AB', 'AC', 'AD', 'AE', 'AF', 'AG', 'AH', 'AI', 'AJ', 'AK', 'AL', 'AM', 'AN', 'AO', 'AP', 'AQ', 'AR', 'AS', 'AT', 'AU', 'AV', 'AW', 'AX', 'AY', 'AZ', 'BA', 'BB'] as $col) {
+        $spreadsheet->getActiveSheet()->getColumnDimension($col)->setWidth(18);
+    }
     $styleArray = [
         'font' => [
             'bold' => true,
@@ -446,7 +299,11 @@ if (isset($_GET['txt_fecha_ini']) && isset($_GET['txt_fecha_fin'])) {
     header('Pragma: public'); // HTTP/1.0
 
     $writer = IOFactory::createWriter($spreadsheet, 'Xlsx');
+    $writer->setPreCalculateFormulas(false);
     $writer->save('php://output');
+
+    $spreadsheet->disconnectWorksheets();
+    unset($writer, $spreadsheet, $datos_batch);
 
     exit;
 } else {
